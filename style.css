@@ -1,0 +1,213 @@
+body {
+  background-image: url(images/clouds.png);
+  background-repeat: no-repeat;
+  background-position: stretch;
+  background-size: cover;
+}
+
+.titlePage {
+  text-align: center;
+  font-family: "Courgette", cursive;
+  font-size: 80pt;
+  color: rgb(15, 15, 82);
+  text-shadow: (10px 10px 10px black);
+}
+
+.displayGraphic {
+  display: block;
+  border: 5px solid darkblue;
+  height: 100px;
+  width: 600px;
+  margin-left: 650px;
+  background-color: lightblue;
+  margin-top: 60px;
+}
+
+.controller {
+  position: relative;
+  display: block;
+  height: 800px;
+  width: 600px;
+  background-color: #3ba4e4;
+  border: 3px solid blue;
+  margin-left: 650px;
+  margin-top: 60px;
+}
+
+.title {
+  margin-top: 20px;
+  position: absolute;
+  display: inline;
+  font-family: "Courgette", cursive;
+  margin-left: 165px;
+  font-size: 40px;
+  color: rgb(15, 15, 82);
+}
+.title2 {
+  display: inline;
+  position: absolute;
+  margin-left: 360px;
+  top: 30px;
+  font-family: "Courgette", cursive;
+  font-size: 20px;
+}
+.list {
+  position: absloute;
+  margin-left: 370px;
+  font-family: "Courgette", cursive;
+  top: 0px;
+}
+.buttonsRadio {
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+}
+
+#javascript {
+  margin-top: 10px;
+}
+.container1 {
+  display: block;
+  margin-left: 650px;
+  height: 80px;
+  width: 600px;
+  background-color: white;
+  margin-top: 20px;
+  border: 3px solid blue;
+  position: relative;
+}
+.sf {
+  position: absloute;
+  width: 200px;
+  height: 50px;
+  margin-left: 90px;
+  margin-top: 80px;
+  display: inline;
+  font-family: "Courgette", cursive;
+  border-radius: 5%;
+}
+.ny {
+  position: absloute;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 80px;
+  display: inline;
+  height: 50px;
+  font-family: "Courgette", cursive;
+  border-radius: 5%;
+}
+.paris {
+  position: absloute;
+  display: inline;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 80px;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+.rome {
+  position: absloute;
+  display: inline;
+  width: 200px;
+  display: inline;
+  margin-left: 90px;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+.madrid {
+  position: absloute;
+  width: 200px;
+  display: inline;
+  margin-left: 40px;
+  margin-top: 80px;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+
+.munich {
+  position: absloute;
+  width: 200px;
+  display: inline;
+  margin-left: 90px;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+
+.tokyo {
+  position: absloute;
+  width: 200px;
+  display: inline;
+  margin-left: 90px;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+.shanghi {
+  position: absloute;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 80px;
+  display: inline;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+
+.johannesburg {
+  position: absloute;
+  width: 200px;
+  display: inline;
+  margin-left: 90px;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+.mexico {
+  position: absloute;
+  width: 200px;
+  margin-left: 40px;
+  margin-top: 80px;
+  display: inline;
+  height: 50px;
+  border-radius: 5%;
+  font-family: "Courgette", cursive;
+}
+
+.temp {
+  font-size: 30pt;
+  text-align: center;
+}
+.location {
+  margin-top: 20px;
+  font-size: 30pt;
+  text-align: center;
+}
+.summary {
+  font-size: 30pt;
+  text-align: center;
+}
+
+.stats {
+  display: block;
+  margin-top: 20px;
+  border: 5px solid dark blue;
+  height: 200px;
+  width: 610px;
+  margin-left: 650px;
+  background-color: rgb(108, 108, 211);
+  background-image: url(images/clear.jpg);
+}
+
+.reset {
+  margin-top: 60px;
+  position: absolute;
+  display: inline;
+  margin-left: 90px;
+  width: 445px;
+  height: 50px;
+  font-family: "Courgette", cursive;
+}
